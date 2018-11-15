@@ -35,23 +35,35 @@ section {
     padding: 60px;
     width: 49.5%;
     margin-bottom: 10px;
-    height: 180px;
+    height: 280px;
     float: left;
-
+/* overflow auto? */
 }
 article {
     background-color: #777;
     color: #ebebeb;
     width: 96.66%;
     margin-bottom: 10px;
+    margin-top: 10px;
+    height: 180px;
 }
 h1 {
-    background-color: gainsboro;
+    background-color: #ebebeb;
     color: black;
     width: 96.66%;
-    margin: auto;
+    height: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
+p {
+    background-color: #ebebeb;
+    color: black;
+    width: 96.66%;
+    height: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 aside {
     background-color: #ebebeb;
     color: black;
@@ -59,7 +71,7 @@ aside {
     width: 49.5%;
     margin-bottom: 10px;
     float: right;
-    height: 180px;
+    height: 280px;
 
 }
 
@@ -68,5 +80,5 @@ footer {
     color: black;
     padding: 15px;
     margin-bottom: 10px;
-    margin-top: 10px;
+    margin-top: 302px;
 }
