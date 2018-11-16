@@ -3,6 +3,8 @@
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    font-family: "marck script";
+    font-size: 24px;
   }
 
 body {
@@ -33,7 +35,7 @@ section {
     background-color: #ebebeb;
     color: black;
     padding: 60px;
-    width: 49.5%;
+    width: 55.5%;
     margin-bottom: 10px;
     height: 280px;
     float: left;
@@ -42,10 +44,10 @@ section {
 article {
     background-color: #777;
     color: #ebebeb;
-    width: 96.66%;
+    width: 98.66%;
     margin-bottom: 10px;
     margin-top: 10px;
-    height: 180px;
+    height: 150px;
 }
 h1 {
     background-color: #ebebeb;
@@ -68,7 +70,7 @@ aside {
     background-color: #ebebeb;
     color: black;
     padding: 60px;
-    width: 49.5%;
+    width: 43.5%;
     margin-bottom: 10px;
     float: right;
     height: 280px;
